@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Research%20group%20logo.png" alt="CrystAI — Crystallization, Process Modelling & AI" width="420" />
+<img src="assets/crystai-logo.png" alt="CrystAI — Crystallization, Process Modelling & AI" width="420" />
 
 # Antonello Raponi, PhD
 
