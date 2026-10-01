@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/crystai-logo.svg" alt="CrystAI logo" width="240" />
+<img src="./Research%20group%20logo.png" alt="CrystAI — Crystallization, Process Modelling & AI" width="420" />
 
 # Antonello Raponi, PhD
-
-### CrystAI — Crystallization, Process Modelling & AI
 
 **Mines Saint-Étienne · Centre SPIN – Département PEG**  
 **Laboratoire Georges Friedel, UMR 5307 CNRS**
